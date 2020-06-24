@@ -2,4 +2,7 @@
 function countDown(num){
   
   let counter=num
+  while(num >=0){
+    
+  }
 }
