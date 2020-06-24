@@ -3,7 +3,7 @@ function countDown(num){
   
   let counter=num
   while(num >=0){
-     counter-=1;
+     counter= counter-1;
      console.log(counter)
      
   }
