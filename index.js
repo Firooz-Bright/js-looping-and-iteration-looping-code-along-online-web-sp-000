@@ -1,5 +1,5 @@
 // Code your solutions in this file
-function countDown(arr){
+function countDown(num){
   
-  let counter=arr[-1]
+  let counter=num
 }
