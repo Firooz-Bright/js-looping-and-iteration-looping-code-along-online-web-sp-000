@@ -11,7 +11,9 @@ function countDown(num){
   }
 }
  function writeCards(str,event){
-   count= str.length-1;
-   
+   let final= str.length-1;
+   for(count;count>=0;count){
+     
+   }
    
  }
