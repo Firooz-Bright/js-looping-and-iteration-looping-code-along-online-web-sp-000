@@ -10,3 +10,7 @@ function countDown(num){
      
   }
 }
+ function writeCards(){
+   
+   
+ }
