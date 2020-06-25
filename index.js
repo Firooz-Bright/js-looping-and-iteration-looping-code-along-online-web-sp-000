@@ -5,7 +5,7 @@ function countDown(num){
   while(counter >= 0){
    
      console.log(counter)
-      console.log("thank you")
+  
         counter= counter-1;
      
   }
