@@ -15,7 +15,7 @@ function countDown(num){
    let final= str.length-1;
    
    for(let count=0;count<=final; count+=1){
-     console.log(`Thank you ${str[count]},for the wonderful${event} gift!`)
+     console.log(`Thank you ${str[count]},for the wonderful ${event} gift!`)
      
    }
    
