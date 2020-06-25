@@ -12,7 +12,7 @@ function countDown(num){
 }
  function writeCards(str,event){
    let final= str.length-1;
-   for(count;count>=0;count){
+   for(let count=0;count<=final; count){
      
    }
    
