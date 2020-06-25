@@ -15,7 +15,7 @@ function countDown(num){
    let final= str.length-1;
    let text=[];
    for(let count=0;count<=final; count+=1){
-     text.push(`Thank you, ${str[count]},for the wonderful ${event} gift!`)
+     text.push(`Thank you, ${str[count]}, for the wonderful ${event} gift!`)
      
    }
    return text;
