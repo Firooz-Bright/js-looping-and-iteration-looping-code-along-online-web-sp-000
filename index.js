@@ -13,7 +13,7 @@ function countDown(num){
  function writeCards(str,event){
    let final= str.length-1;
    for(let count=0;count<=final; count+=1){
-     console.log(`Thank you ${str[count]},for the wonderful${event} `)
+     console.log(`Thank you ${str[count]},for the wonderful${event} gift!`)
      
    }
    
